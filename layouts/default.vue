@@ -14,6 +14,17 @@
     </v-avatar>
     Peyton Brown
     </router-link>
+
+    <v-spacer/>
+    <v-btn
+        depressed
+        outlined
+        color="orange"
+        to="/projects"
+      >
+      Projects
+    </v-btn>
+
     </v-app-bar>
     <v-main>
         <Nuxt />

@@ -9,8 +9,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - PersonalWebsite',
-    title: 'PersonalWebsite',
+    titleTemplate: '%s - Personal Website',
+    title: 'Peyton Brown',
     htmlAttrs: {
       lang: 'en'
     },
@@ -43,7 +43,7 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [
+  modules: ['@nuxt/content'
   ],
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
