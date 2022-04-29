@@ -35,7 +35,7 @@
       link="https://twitter.com/ImPeytonBrown"
       />
       <SocialIcon icon="instagram"
-      link="https://instagram.com/ImPeytonBrown"
+      link="https://instagram.com/PeytonsStuffs"
       />
     </v-row>
   </v-container>
